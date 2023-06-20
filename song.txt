@@ -7,3 +7,7 @@ another line
 and another line seventh
 
 new content
+first line
+second line
+third line
+fourth line
