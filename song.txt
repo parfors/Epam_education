@@ -1,7 +1,6 @@
 first line
 second line
-third line
-fourth line
+
 
 some other content
 fourth line
