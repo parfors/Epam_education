@@ -4,6 +4,6 @@ third line
 fourth line
 
 some other content
-some other content
+fourth line
 some other content
 some other content
