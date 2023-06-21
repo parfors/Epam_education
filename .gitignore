@@ -1,4 +1,7 @@
 *.log
+*.db
 
+target/
+bin/
 
 
